@@ -1,0 +1,12 @@
+
+.tarjeta{
+    background-color: rgb(229, 15, 147);
+    border-radius: 2rem;
+    box-shadow: 0.5em 0.5em 1em 0em grey;
+    border-style: dashed;
+    text-align: center;
+    color: antiquewhite;
+    padding: 1em;
+    
+    
+}

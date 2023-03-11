@@ -1,0 +1,55 @@
+.app{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(54, 244, 155);    
+    border-radius: 1em;
+    box-shadow: 0.5em 0.5em 1em 0em grey;
+    padding: 1em;
+}
+
+.titulo{
+    color:white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+    text-align: center;
+}
+
+.contenido{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+   
+}
+
+.ingreso{
+    margin: 1em;
+    width: 18em;
+    height: 2em;
+    border-radius: 0.5em;
+    border:2px solid grey ;
+
+}
+
+.enviar{
+    background-color: rgb(95, 75, 226);
+    width: 19em;
+    height: 2.5em;
+    border-radius: 0.5em;
+    color: aliceblue;
+    border: none;
+    box-shadow: 0.5em 0.5em 1em 0em grey;
+    
+}
+.enviar:hover{
+    background-color: rgb(7, 122, 122);
+}
+.mascota{
+    margin: 1em;
+    padding: 0.5em;
+   box-shadow:  0.5em 0.5em 1em 0em grey;
+}
+
+.mascota{
+    background-color: rgb(60, 25, 93);
+    color:antiquewhite;
+    font-weight: 400;
+}
